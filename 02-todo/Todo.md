@@ -1,0 +1,1 @@
+    - Implement a simple todo list application where users can add, delete, and mark tasks as completed.

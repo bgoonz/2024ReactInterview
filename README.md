@@ -40,59 +40,48 @@
 
 10. **Error Boundaries:**
 
-
-    *   Implement an error boundary component that catches JavaScript errors anywhere in its child component tree, logs those errors, and displays a fallback UI instead of the component tree that crashed.
+    - Implement an error boundary component that catches JavaScript errors anywhere in its child component tree, logs those errors, and displays a fallback UI instead of the component tree that crashed.
 
 ### Advanced React Problems
 
 11. **Higher-Order Components (HOC):**
 
-
-    *   Create an HOC that adds additional data or functionality to a wrapped component (e.g., logging component usage analytics).
+    - Create an HOC that adds additional data or functionality to a wrapped component (e.g., logging component usage analytics).
 
 12. **Render Props:**
 
-
-    *   Implement a component that uses the render props pattern to share code between components in a flexible way.
+    - Implement a component that uses the render props pattern to share code between components in a flexible way.
 
 13. **Optimizing Performance:**
 
-
-    *   Demonstrate the use of `React.memo`, `useMemo`, and `useCallback` to optimize a component that has performance issues due to unnecessary re-renders.
+    - Demonstrate the use of `React.memo`, `useMemo`, and `useCallback` to optimize a component that has performance issues due to unnecessary re-renders.
 
 14. **React Router:**
 
-
-    *   Set up a simple SPA (Single Page Application) with React Router, including routes for a home page, about page, and a dynamic route for user profiles.
+    - Set up a simple SPA (Single Page Application) with React Router, including routes for a home page, about page, and a dynamic route for user profiles.
 
 15. **State Management (Beyond useState/useReducer):**
 
-
-    *   Illustrate a simple example of global state management using the Context API or any state management library like Redux or Recoil, showing how to share state across multiple components.
+    - Illustrate a simple example of global state management using the Context API or any state management library like Redux or Recoil, showing how to share state across multiple components.
 
 ### Bonus Problems
 
 16. **Accessibility (a11y):**
 
-
-    *   Enhance a React application by implementing various accessibility features, such as keyboard navigation, ARIA roles, and semantic HTML.
+    - Enhance a React application by implementing various accessibility features, such as keyboard navigation, ARIA roles, and semantic HTML.
 
 17. **Internationalization:**
 
-
-    *   Add internationalization support to a React app, allowing it to display content in multiple languages.
+    - Add internationalization support to a React app, allowing it to display content in multiple languages.
 
 18. **Testing in React:**
 
-
-    *   Write unit tests for a React component using Jest and React Testing Library, covering user interactions and component logic.
+    - Write unit tests for a React component using Jest and React Testing Library, covering user interactions and component logic.
 
 19. **Static Site Generation with Next.js:**
 
-
-    *   Create a statically generated blog using Next.js, where each post is a markdown file that gets rendered to a webpage at build time.
+    - Create a statically generated blog using Next.js, where each post is a markdown file that gets rendered to a webpage at build time.
 
 20. **Server-Side Rendering with Next.js:**
 
-
-    *   Implement a simple application with server-side rendering to improve load times and SEO for dynamic content.
+    - Implement a simple application with server-side rendering to improve load times and SEO for dynamic content.

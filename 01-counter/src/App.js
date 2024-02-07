@@ -22,7 +22,9 @@ function App() {
 
   return (
     <div>
-      <button onClick={handleClick}>{ascending ? "increment" : "decrement"}</button>
+      <button onClick={handleClick}>
+        {ascending ? "increment" : "decrement"}
+      </button>
       <div>
         <span>count:{count}</span>
       </div>

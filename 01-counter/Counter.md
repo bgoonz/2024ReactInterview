@@ -1,0 +1,1 @@
+- Create a counter that counts when the user clicks a button up until the number five at which point it counts back down to zero and then changes back to incrementing once it gets down to zero.
